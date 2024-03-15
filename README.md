@@ -19,9 +19,9 @@ making it a pleasure to order your favorite meals.
   easy-to-use contact form allows you to get in touch with our friendly customer
   service team.
 
-## Watch the Live [Demo](https://nikhils045.github.io/Tic-Tac-Toe/)
+## Watch the Live [Demo](https://nikhils045.github.io/Food-Delivery/)
 
-- Website Link : https://nikhils045.github.io/Tic-Tac-Toe/
+- Website Link : https://nikhils045.github.io/Food-Delivery/
 
 ## Contributing
 
