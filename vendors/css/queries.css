@@ -25,6 +25,9 @@
   section {
     padding: 60px 0;
   }
+  .section-features {
+    margin-bottom: 0px;
+  }
   .steps-box {
     margin-top: 10px;
   }
@@ -105,11 +108,20 @@
   section {
     padding: 25px 0;
   }
+  .section-features {
+    margin-bottom: 0px;
+  }
   .contact-form {
     width: 100%;
   }
   .btn-app {
     justify-content: center;
     display: flex;
+  }
+}
+
+@media only screen and (max-width: 329px) {
+  .btn-ghost {
+    margin-top: 10px;
   }
 }
